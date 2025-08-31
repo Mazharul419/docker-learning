@@ -17,3 +17,5 @@ Creating seperate Dockerfile: https://www.divio.com/blog/guide-using-multiple-do
 
 # Creating Docker-Compose file
 As per Flask-SQL walkthrough
+also: https://medium.com/@y.zeynab1/building-a-visitor-counter-app-with-docker-flask-and-redis-40b6bab5ec1e
+
