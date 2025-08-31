@@ -1,5 +1,8 @@
 # Docker Containerisation Project 🐳➡📦
 
+![ezgif-6e2eb69a239149](https://github.com/user-attachments/assets/5a47607e-7ff9-4d15-9b4d-0e3ce47d55e7)
+
+
 ## A project focusing on creating a webserver with an live website visit counter!
 
 This is a Flask webserver, with a Redis database keeping the count of user visits - all containerised using Docker-Compose!
