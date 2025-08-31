@@ -1,4 +1,10 @@
-# Docker Project
+# Docker Containerisation Project 🐳➡📦
+
+## A project focusing on creating a webserver with an live website visit counter!
+
+This is a Flask webserver, with a Redis database keeping the count of user visits - all containerised using Docker-Compose!
+
+This was by far the most challenging project I've done yet - so much learnt and gained!
 
 ## Creating Flask Application
 <br>
