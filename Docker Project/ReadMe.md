@@ -22,10 +22,10 @@ Some of the challenges I faced are:
 
 Some features I REALLY want to implement in the near future are:
 
-- Producing Volumes that persist data, so visit counter is not reset upon container restarts
-- Adding great looking display through HTML/CSS to make the website vibrant
-- Deploying NGINX webservers and load balancing traffic
-- Additional security features like passwords to database
+- [ ] Producing Volumes that persist data, so visit counter is not reset upon container restarts
+- [ ] Adding great looking display through HTML/CSS to make the website vibrant
+- [ ] Deploying NGINX webservers and load balancing traffic
+- [ ] Additional security features like passwords to database
 
 ## Credit 
 
