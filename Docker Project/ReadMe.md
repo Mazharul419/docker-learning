@@ -27,23 +27,19 @@ Some features I REALLY want to implement in the near future are:
 - Deploying NGINX webservers and load balancing traffic
 - Additional security features like passwords to database
 
-## Creating Flask Application
+## Credit 
+
+Credit to [CoderCo](https://coderco.io/) for providng me with the skills and opportunity to demonstrate my knowledge in this project - it is highly appreciated!
+
+Credit to Network Chuck for his basic tutorial on how Flask works and the meaning behind routes
+
+Creating Redis Application - I learnt how to perform increments via the [Official Documentation for Redis](https://redis.io/docs/latest/develop/clients/redis-py/) and the [GeekforGeeks tutorial on setting up a Redis server](https://www.geeksforgeeks.org/system-design/introduction-to-redis-server/)
 <br>
-1. Set up - Network Chuck tutorial
 
-## Creating Redis Application
-1. Set up
-
-Official Docs: https://redis.io/docs/latest/develop/clients/redis-py/
-<br>
-GeeksforGeeks: https://www.geeksforgeeks.org/system-design/introduction-to-redis-server/
-
-# Creating Dockerfiles:
-
-Creating seperate Dockerfile: https://www.divio.com/blog/guide-using-multiple-dockerfiles/
+Creating seperate Dockerfile: Credit to Zeynab https://www.divio.com/blog/guide-using-multiple-dockerfiles/
 
 # Creating Docker-Compose file
 As per Flask-SQL walkthrough
 also: https://medium.com/@y.zeynab1/building-a-visitor-counter-app-with-docker-flask-and-redis-40b6bab5ec1e
 
-Creating a good ReadME https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file
+Credit to Othneil Drew for providing an [awesome template](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file) for ReadMEs! 
