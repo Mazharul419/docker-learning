@@ -4,9 +4,11 @@
 
 This application runs a live website with real-time visitor tracking.
 
-By using:
+## Technologies 
+
 <br>
-- **Flask** framework for the webserver
+
+<img src="{(https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)}" /> framework for the webserver
 - **Redis** database for website visitor tracking
 - **Docker** platform to containerise and run the isolated applications
 <br>
@@ -44,3 +46,4 @@ Creating seperate Dockerfile: https://www.divio.com/blog/guide-using-multiple-do
 As per Flask-SQL walkthrough
 also: https://medium.com/@y.zeynab1/building-a-visitor-counter-app-with-docker-flask-and-redis-40b6bab5ec1e
 
+Creating a good ReadME https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file
